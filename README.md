@@ -2,7 +2,7 @@
 
 四德學輔班學習樂園的六年級數學。學生回家用來「玩著複習」，每個單元只練最常錯的重點（依翰林版六上評量類題整理）。
 
-網址：https://snoopyteacher888.github.io/hanlin-math-6/
+網址：請從學習樂園首頁進入（https://snoopyteacher888.github.io/sedu.learnspace/）。直接打開 https://snoopyteacher888.github.io/hanlin-math-6/ 也會自動轉到首頁的這個年級。
 
 ## 程式在哪裡改
 三、五、六年級的數學網站用**同一套程式**，只有 `js/site.js`（年級）和這個 README 不一樣。
